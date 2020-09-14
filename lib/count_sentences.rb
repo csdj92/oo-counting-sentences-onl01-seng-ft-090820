@@ -16,6 +16,6 @@ self.end_with?("!")
 
   def count_sentences
     binding.pry
-self.end_with?(".")
+self.end_with?(".,?,!")
   end
 end
